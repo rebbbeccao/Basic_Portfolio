@@ -1,4 +1,6 @@
 # Basic_Portfolio <br/>
 
-Initial portfolio design <br/>
-HTML CSS practice
+<ul>
+<li>Initial portfolio design</li> <br/>
+<li>HTML CSS practice</li>
+</ul>
